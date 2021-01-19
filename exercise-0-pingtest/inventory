@@ -1,0 +1,2 @@
+target1 ansible_host=ansibletarget1.local
+target2 ansible_host=ansibletarget2.local
